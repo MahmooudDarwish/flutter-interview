@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658440818209",
+    "project_id": "anydeck-64159",
+    "storage_bucket": "anydeck-64159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658440818209:android:bc410c3ed61c3b5ac0dd60",
+        "android_client_info": {
+          "package_name": "com.example.flutter_interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6GIcJLk5DSyRPZXQPo08XdReAgtEeOX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
